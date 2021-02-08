@@ -2,4 +2,4 @@ baseURL = "http://kaihui.wang/"
 languageCode = "zh-cn"
 title = "点点de窝"
 theme = "ananke"
-publishDir = docs
+publishDir = "docs"
