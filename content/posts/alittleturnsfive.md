@@ -5,4 +5,4 @@ draft: false
 ---
 
 点点今年5岁啦！
-![点点.jpeg](https://i.loli.net/2021/02/08/pWsdygq2XwQvKae.jpg)
+![点点.jpeg](http://i.loli.net/2021/02/08/pWsdygq2XwQvKae.jpg)
