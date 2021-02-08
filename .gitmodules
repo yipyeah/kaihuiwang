@@ -1,0 +1,12 @@
+[submodule "src/themes/pico"]
+	path = src/themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
+[submodule "src/themes/ananke"]
+	path = src/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "src/themes/autophugo"]
+	path = src/themes/autophugo
+	url = https://github.com/kc0bfv/autophugo.git
+[submodule "src/themes/introduction"]
+	path = src/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
